@@ -4,10 +4,6 @@
  * 验证函数
  * */
 
-if (!defined('IN_ECS'))
-{
-    die('Hacking attempt');
-}
 
 /**
  * validateIDCard
