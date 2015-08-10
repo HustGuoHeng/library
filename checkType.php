@@ -1,5 +1,4 @@
 <?php
-
 	//读取文件前几个字节 判断文件类型
 	function checkFileType($filename){
 		$file=fopen($filename,'rb');
